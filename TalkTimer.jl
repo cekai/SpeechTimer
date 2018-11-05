@@ -13,7 +13,6 @@
 
 #written in Julia programming language
 
-#Author: Ira Ceka
 #5/27/2016
 
 using ArgParse
